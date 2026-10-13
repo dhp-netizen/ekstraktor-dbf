@@ -1,0 +1,326 @@
+Variable	Label
+URUT	renumbering nurt
+PSU	Primary Sampling Unit
+SSU	Secondary Sampling Unit
+STRATA	Strata
+R101	Kode Provinsi
+R102	Kode Kabupaten/Kota
+R105	Perkotaan/Perdesaan
+R401	No. Urut ART
+R403	Hubungan dengan KRT
+R404	Status Perkawinan
+R405	Jenis kelamin
+R406A	Tanggal lahir
+R406B	Bulan lahir
+R406C	Tahun lahir
+R407	Umur
+R408	Apakah suami/istri biasanya tinggal di rumah tangga ini?
+R409	Pada umur berapa melangsungkan perkawinan pertama?
+R410	Nomor urut ART pemberi informasi
+R501	Apakah pernah memiliki buku/akta nikah?
+R502	Nomor urut keluarga
+R503	Nomor urut ibu kandung
+R504	Nomor urut ayah kandung
+R505	Apakah mempunyai Nomor Induk Kependudukan (NIK)?
+R507	Kode jenis kelamin menurut NIK
+R508	Sumber data NIK
+R509	Apakah memiliki akta kelahiran dari kantor catatan sipil?
+R510	Apakah isian r507 sama dengan isian r405?
+R601	Provinsi/Negara tempat tinggal ibu ketika melahirkannya
+R602	Kabupaten/Kota tempat tinggal ibu ketika melahirkannya
+R603	Provinsi/Negara tempat tinggal 5 tahun yang lalu
+R604	Kabupaten/Kota tempat tinggal 5 tahun yang lalu
+R605	Apakah sedang/pernah mengikuti pendidikan prasekolah?
+R606	Apa jenis pendidikan prasekolahnya?
+R607_A	Ya, kursus pengembangan kemampuan membaca, menulis, dan berhitung
+R607_B	Ya, kursus bukan pengembangan kemampuan membaca, menulis, dan berhitung
+R607_X	Tidak sedang/pernah mengikuti kegiatan kursus
+R608	Apakah dapat membaca dan menulis huruf latin/alfabet?
+R609	Apakah dapat membaca dan menulis huruf arab/hijaiyah?
+R610	Apakah dapat membaca dan menulis huruf lainnya?
+R611	Apakah bersekolah?
+R612	Apakah bersekolah di negeri atau swasta?
+R613	Apa jenjang pendidikan tertinggi yang sedang/pernah diikuti?
+R614	Apa tingkat/kelas tertinggi yang sedang/pernah diduduki?
+R615	Apa ijazah/STTB tertinggi yang dimiliki?
+R616	Dalam seminggu, seberapa sering biasanya sarapan/makan pagi?
+R617	Dalam sebulan terakhir, apakah mendapatkan uang saku ketika bersekolah?
+R618_A	Ya, Program MBG
+R618_B	Ya, Program Lainnya
+R618_X	Tidak mendapatkan
+R619	Apakah memiliki Kartu Indonesia Pintar (KIP)?
+R620	Apakah memperoleh Program Indonesia Pintar (PIP)?
+R621	Apakah bersekolah pada tahun ajaran sebelumnya?
+R622	Apa jenjang pendidikan yang diikuti waktu itu?
+R623	Apa tingkat/kelas yang diduduki waktu itu?
+R624	Apa alasan utama belum atau tidak bersekolah lagi?
+R701	Apakah memiliki rekening tabungan?
+R702	Dalam setahun terakhir, apakah menggunakan produk/layanan jasa keuangan?
+R703_A	Apakah bekerja?
+R703_B	Apakah sekolah?
+R703_C	Apakah mengurus rumah tangga?
+R703_D	Apakah melakukan kegiatan lainnya selain kegiatan pribadi?
+R703_X	Apakah tidak melakukan kegiatan?
+R704	Apakah mempunyai pekerjaan/usaha, tetapi sementara tidak bekerja?
+R705	Apa lapangan usaha utamanya?
+R706	Apa status/kedudukan dalam pekerjaan utama?
+R707	Berapa jumlah jam kerja dari pekerjaan utama?
+R708	Berapa jumlah jam kerja dari seluruh pekerjaan?
+R801	Apakah menggunakan telepon seluler?
+R802	Apakah memiliki/menguasai telepon seluler?
+R807_A	Apakah menggunakan PC/desktop?
+R807_B	Apakah menggunakan laptop/note book?
+R807_C	Apakah menggunakan tablet?
+R807_X	Apakah tidak menggunakan komputer?
+R808	Apakah pernah menggunakan internet?
+R809_A	Apakah menggunakan PC/desktop untuk internet?
+R809_B	Apakah menggunakan Laptop/note book untuk internet?
+R809_C	Apakah menggunakan Tablet untuk internet?
+R809_D	Apakah menggunakan HP/Ponsel untuk internet?
+R809_E	Apakah menggunakan Media lainnya untuk internet?
+R810_A	Apakah menggunakan internet di rumah sendiri?
+R810_B	Apakah menggunakan internet bukan di rumah sendiri?
+R810_C	Apakah menggunakan internet di tempat bekerja/kantor?
+R810_D	Apakah menggunakan internet di gedung sekolah/kampus?
+R810_E	Apakah menggunakan internet di tempat umum?
+R810_F	Apakah menggunakan internet dalam kondisi bergerak?
+R811_A	Apakah menggunakan internet untuk mendapat informasi?
+R811_B	Apakah menggunakan internet untuk mengirim/menerima e-mail?
+R811_C	Apakah menggunakan internet untuk media sosial/jejaring sosial?
+R811_D	Apakah menggunakan internet untuk pembelian barang/jasa?
+R811_E	Apakah menggunakan internet untuk penjualan barang/jasa?
+R811_F	Apakah menggunakan internet untuk fasilitas finansial (e-banking)?
+R811_G	Apakah menggunakan internet untuk pembelajaran online?
+R811_H	Apakah menggunakan internet untuk hiburan?
+R811_I	Apakah menggunakan internet untuk pembuatan konten digital?
+R811_J	Apakah menggunakan internet untuk lainnya?
+R812	Dalam 3 bulan terakhir, seberapa sering menggunakan Internet?
+R901	Apakah pernah bepergian?
+R902	Berapa kali bepergian selama 1 Januari sampai dengan 30 Juni 2024?
+R903	Berapa kali bepergian selama 1 Juli sampai dengan 31 Desember 2024?
+R904	Apa maksud utama melakukan bepergian yang terakhir?
+R905	Apakah pernah menjadi korban kejahatan?
+R906	Berapa kali menjadi korban pencurian?
+R907	Berapa jumlah kejadian pencurian yang dilaporkan ke polisi?
+R908	Berapa kali menjadi korban penganiayaan?
+R909	Berapa jumlah kejadian penganiayaan yang dilaporkan ke polisi?
+R910	Berapa kali menjadi korban pencurian dengan kekerasan?
+R911	Berapa jumlah kejadian pencurian dengan kekerasan yang dilaporkan ke polisi?
+R912	Berapa kali menjadi korban pelecehan seksual?
+R913	Berapa jumlah kejadian pelecehan seksual yang dilaporkan ke polisi?
+R914	Berapa kali menjadi korban kejahatan lainnya?
+R915	Berapa jumlah kejadian kejahatan lainnya yang dilaporkan ke polisi?
+R1001	Kelompok umur
+R1010	Apakah menerima bansos ATENSI penyandang disabilitas?
+R1101_A	Apakah memiliki BPJS Kesehatan PBI?
+R1101_B	Apakah memiliki BPJS Kesehatan non-PBI?
+R1101_C	Apakah memiliki Jamkesda?
+R1101_D	Apakah memiliki asuransi swasta?
+R1101_E	Apakah memiliki jaminan kesehatan dari perusahaan/kantor?
+R1101_x	Apakah tidak memiliki jaminan kesehatan?
+R1102	Apakah mempunyai keluhan kesehatan?
+R1103	Apakah mengakibatkan terganggunya kegiatan sehari-hari?
+R1104	Apakah pernah mengobati sendiri?
+R1105	Apakah pernah rawat jalan?
+R1106	Apa alasan utama tidak rawat jalan?
+R1107_A	Apakah rawat jalan ke RS Pemerintah?
+R1107_B	Apakah rawat jalan ke RS Swasta?
+R1107_C	Apakah rawat jalan ke Klinik?
+R1107_D	Apakah rawat jalan ke Praktik dokter/Bidan/Perawat?
+R1107_E	Apakah rawat jalan ke Puskesmas/Pustu/Pusling?
+R1107_F	Apakah rawat jalan ke UKBM?
+R1107_G	Apakah rawat jalan ke Pelayanan kesehatan tradisional?
+R1107_H	Apakah rawat jalan ke Lainnya?
+R1108	Berapa kali rawat jalan?
+R1109_A	Apakah menggunakan BPJS Kesehatan PBI untuk rawat jalan?
+R1109_B	Apakah menggunakan BPJS Kesehatan non-PBI untuk rawat jalan?
+R1109_C	Apakah menggunakan Jamkesda untuk rawat jalan?
+R1109_D	Apakah menggunakan asuransi swasta untuk rawat jalan?
+R1109_E	Apakah menggunakan jaminan kesehatan dari perusahaan/kantor untuk rawat jalan?
+R1109_x	Apakah tidak menggunakan jaminan kesehatan untuk rawat jalan?
+R1110_A	Tidak tahu cara memanfaatkan jaminan kesehatan
+R1110_B	Tidak ada biaya (transportasi, dll)
+R1110_C	Kartu JKN tidak aktif
+R1110_D	Menggunakan asuransi selain JKN/Jamkesda
+R1110_E	Prosedur/persyaratan sulit dipenuhi
+R1110_F	Tidak ada faskes yang mudah dijangkau dari rumah responden
+R1110_G	Tidak ada petugas pemberi pelayanan jaminan kesehatan
+R1110_H	Waktu tunggu pelayanan lama/antre panjang
+R1110_I	Lainnya
+R1110_x	Tidak memiliki JKN/Jamkesda
+R1201	Apakah pernah dirawat inap?
+R1202_A	Apakah dirawat inap di RS Pemerintah?
+R1202_B	Apakah dirawat inap di RS Swasta?
+R1202_C	Apakah dirawat inap di Klinik?
+R1202_D	Apakah dirawat inap di Praktik bidan?
+R1202_E	Apakah dirawat inap di Puskesmas?
+R1202_F	Apakah dirawat inap di Pelayanan kesehatan tradisional?
+R1202_G	Apakah dirawat inap di Tempat lainnya?
+R1203	Berapa hari dirawat inap?
+R1204_A	Apakah menggunakan BPJS Kesehatan PBI untuk rawat inap?
+R1204_B	Apakah menggunakan BPJS Kesehatan non-PBI untuk rawat inap?
+R1204_C	Apakah menggunakan Jamkesda untuk rawat inap?
+R1204_D	Apakah menggunakan asuransi swasta untuk rawat inap?
+R1204_E	Apakah menggunakan jaminan kesehatan dari perusahaan/kantor untuk rawat inap?
+R1204_x	Apakah tidak menggunakan jaminan kesehatan untuk rawat inap?
+R1205_A	Tidak tahu cara memanfaatkan jaminan kesehatan
+R1205_B	Tidak ada biaya (transportasi, dll)
+R1205_C	Kartu JKN tidak aktif
+R1205_D	Menggunakan asuransi selain JKN/Jamkesda
+R1205_E	Prosedur/persyaratan sulit dipenuhi
+R1205_F	Tidak ada faskes yang mudah dijangkau dari rumah responden
+R1205_G	Tidak ada petugas pemberi pelayanan jaminan kesehatan
+R1205_H	Waktu tunggu pelayanan lama/antre panjang
+R1205_I	Lainnya
+R1205_x	Tidak memiliki JKN/Jamkesda
+R1206	Apakah merokok elektrik/vape?
+R1207	Apakah merokok tembakau?
+R1208	Apakah dulu pernah merokok tembakau?
+NUINFOBAYI	Nomor urut pemberi informasi balita
+R1301	Umur balita dalam bulan
+R1302	Apakah pernah diberi imunisasi?
+R1303	Apakah mempunyai catatan imunisasi?
+R1304A_TGL	Tgl Pemberian: Hepatitis B (<24 jam)
+R1304A_BLN	Bln Pemberian: Hepatitis B (<24 jam)
+R1304A_THN	Thn Pemberian: Hepatitis B (<24 jam)
+R1304A_II	Pemberian Hepatitis B (<24 jam)
+R1304B_TGL	Tgl Pemberian: BCG
+R1304B_BLN	Bln Pemberian: BCG
+R1304B_THN	Thn Pemberian: BCG
+R1304B_II	Pemberian BCG
+R1304C_TGL	Tgl Pemberian: Polio Tetes 1
+R1304C_BLN	Bln Pemberian: Polio Tetes 1
+R1304C_THN	Thn Pemberian: Polio Tetes 1
+R1304C_II	Pemberian Polio Tetes 1
+R1304D_TGL	Tgl Pemberian: DPT-HB-HIB 1
+R1304D_BLN	Bln Pemberian: DPT-HB-HIB 1
+R1304D_THN	Thn Pemberian: DPT-HB-HIB 1
+R1304D_II	Pemberian DPT-HB-HIB 1
+R1304E_TGL	Tgl Pemberian: Polio Tetes 2
+R1304E_BLN	Bln Pemberian: Polio Tetes 2
+R1304E_THN	Thn Pemberian: Polio Tetes 2
+R1304E_II	Pemberian Polio Tetes 2
+R1304F_TGL	Tgl Pemberian: Rota Virus (RV) 1
+R1304F_BLN	Bln Pemberian: Rota Virus (RV) 1
+R1304F_THN	Thn Pemberian: Rota Virus (RV) 1
+R1304F_II	Pemberian Rota Virus (RV) 1
+R1304G_TGL	Tgl Pemberian: PCV 1
+R1304G_BLN	Bln Pemberian: PCV 1
+R1304G_THN	Thn Pemberian: PCV 1
+R1304G_II	Pemberian PCV 1
+R1304H_TGL	Tgl Pemberian: DPT-HB-HIB 2
+R1304H_BLN	Bln Pemberian: DPT-HB-HIB 2
+R1304H_THN	Thn Pemberian: DPT-HB-HIB 2
+R1304H_II	Pemberian DPT-HB-HIB 2
+R1304I_TGL	Tgl Pemberian: Polio Tetes 1
+R1304I_BLN	Bln Pemberian: Polio Tetes 1
+R1304I_THN	Thn Pemberian: Polio Tetes 1
+R1304I_II	Pemberian Polio Tetes 1
+R1304J_TGL	Tgl Pemberian: Rota Virus (RV) 2
+R1304J_BLN	Bln Pemberian: Rota Virus (RV) 2
+R1304J_THN	Thn Pemberian: Rota Virus (RV) 2
+R1304J_II	Pemberian Rota Virus (RV) 2
+R1304K_TGL	Tgl Pemberian: PCV 2
+R1304K_BLN	Bln Pemberian: PCV 2
+R1304K_THN	Thn Pemberian: PCV 2
+R1304K_II	Pemberian PCV 2
+R1304L_TGL	Tgl Pemberian: DPT-HB-HIB 3
+R1304L_BLN	Bln Pemberian: DPT-HB-HIB 3
+R1304L_THN	Thn Pemberian: DPT-HB-HIB 3
+R1304L_II	Pemberian DPT-HB-HIB 3
+R1304M_TGL	Tgl Pemberian: Polio Tetes 4
+R1304M_BLN	Bln Pemberian: Polio Tetes 4
+R1304M_THN	Thn Pemberian: Polio Tetes 4
+R1304M_II	Pemberian Polio Tetes 4
+R1304N_TGL	Tgl Pemberian: Polio Suntik (IPV) 1
+R1304N_BLN	Bln Pemberian: Polio Suntik (IPV) 1
+R1304N_THN	Thn Pemberian: Polio Suntik (IPV) 1
+R1304N_II	Pemberian Polio Suntik (IPV) 1
+R1304O_TGL	Tgl Pemberian: Rota Virus (RV) 3
+R1304O_BLN	Bln Pemberian: Rota Virus (RV) 3
+R1304O_THN	Thn Pemberian: Rota Virus (RV) 3
+R1304O_II	Pemberian Rota Virus (RV) 3
+R1304P_TGL	Tgl Pemberian: Campak-Rubella (MR)
+R1304P_BLN	Bln Pemberian: Campak-Rubella (MR)
+R1304P_THN	Thn Pemberian: Campak-Rubella (MR)
+R1304P_II	Pemberian Campak-Rubella (MR)
+R1304Q_TGL	Tgl Pemberian: Polio Suntik (IPV) 2
+R1304Q_BLN	Bln Pemberian: Polio Suntik (IPV) 2
+R1304Q_THN	Thn Pemberian: Polio Suntik (IPV) 2
+R1304Q_II	Pemberian Polio Suntik (IPV) 2
+R1304R_TGL	Tgl Pemberian: Japanese Encephalitis (JE)
+R1304R_BLN	Bln Pemberian: Japanese Encephalitis (JE)
+R1304R_THN	Thn Pemberian: Japanese Encephalitis (JE)
+R1304R_II	Pemberian Japanese Encephalitis (JE)
+R1304S_TGL	Tgl Pemberian: PCV 3
+R1304S_BLN	Bln Pemberian: PCV 3
+R1304S_THN	Thn Pemberian: PCV 3
+R1304S_II	Pemberian PCV 3
+R1304T_TGL	Tgl Pemberian: DPT-HB-HIB Lanjutan
+R1304T_BLN	Bln Pemberian: DPT-HB-HIB Lanjutan
+R1304T_THN	Thn Pemberian: DPT-HB-HIB Lanjutan
+R1304T_II	Pemberian DPT-HB-HIB Lanjutan
+R1304U_TGL	Tgl Pemberian: Campak-Rubella (MR) Lanjutan
+R1304U_BLN	Bln Pemberian: Campak-Rubella (MR) Lanjutan
+R1304U_THN	Thn Pemberian: Campak-Rubella (MR) Lanjutan
+R1304U_II	Pemberian Campak-Rubella (MR) Lanjutan
+R1305_A	Tempat imunisasi: RS Pemerintah/RS Swasta
+R1305_B	Tempat imunisasi: Klinik
+R1305_C	Tempat imunisasi: Praktik dokter/bidan
+R1305_D	Tempat imunisasi: Puskesmas/Pustu/Pusling
+R1305_E	Tempat imunisasi: Polindes/Poskesdes
+R1305_F	Tempat imunisasi: Posyandu
+R1305_G	Tempat imunisasi: Lainnya
+R1306_A	Pemberi Imunisasi: Dokter Spesialis Anak
+R1306_B	Pemberi Imunisasi: Dokter Umum
+R1306_C	Pemberi Imunisasi: Bidan
+R1306_D	Pemberi Imunisasi: Perawat
+R1306_E	Pemberi Imunisasi: Tenaga Kesehatan Lainnya
+R1306_F	Pemberi Imunisasi: Lainnya
+R1307A	Alasan: Tidak tahu manfaat imunisasi
+R1307B	Alasan: Tidak memiliki biaya
+R1307C	Alasan: Tidak tahu program imunisasi
+R1307D	Alasan: Khawatir dengan efek samping vaksin
+R1307E	Alasan: Khawatir dengan kandungan dalam vaksin
+R1307F	Alasan: Ragu terhadap efektivitas imunisasi
+R1307G	Alasan: Lainnya
+R1308I	Balita berumur 0-23 bulan
+R1308II	Balita berumur ≥ 24 bulan
+R1308A	Apakah pernah disusui/diberi ASI?
+R1308B	Pada umur berapa pertama kali diberikan manakan/minuman selain ASI?
+R1309	Selama seharian kemarin, apakah disusui/diberi ASI?
+R1310A	Selama seharian kemarin, apakah diberikan susu selain ASI?
+R1310Ay	Frekuensi pemberian susu selain ASI
+R1310B	Selama seharian kemarin, apakah diberikan minuman lain tanpa gula?
+R1310C	Selama seharian kemarin, apakah diberikan minuman berpemanis gula?
+R1311	Selama seharian kemarin, apakah diberi makanan baik makanan padat, setengah padat atau lunak?
+R1311y	Frekuensi pemberian makanan padat, setengah padat atau lunak
+R1312A	Selama seharian kemarin, diberi biji-bijian dan umbi-umbian?
+R1312B	Selama seharian kemarin, diberi makanan dari kacang-kacangan?
+R1312C	Selama seharian kemarin, diberi produk turunan susu?
+R1312D	Selama seharian kemarin, diberi daging, ikan?
+R1312E	Selama seharian kemarin, diberi telur?
+R1312F	Selama seharian kemarin, diberi buah dan sayur tinggi Vit A?
+R1312G	Selama seharian kemarin, diberi buah atau sayuran lainnya?
+R1312H	Selama seharian kemarin, diberi makanan manis, gurih dan makanan mengandung karbo yang digoreng?
+NUINFOWPK	Nomor urut pemberi informasi PPK
+R1401A	Apakah pernah hamil?
+R1401B	Umur saat hamil pertama kali
+R1402A	Apakah pernah melahirkan anak lahir hidup?
+R1402B	Umur saat melahirkan pertama kali
+R1403	Kapan melahirkan anak lahir hidup yang terakhir?
+R1404A	Di mana melahirkan anak lahir hidup yang terakhir?
+R1404B	Siapa yang menolong proses kelahiran terakhir?
+R1404C	Berapa berat anak lahir hidup terakhir ketika dilahirkan?
+R1405	Berapa lama proses menempelkan bayi baru lahir di dada ibu?
+NUINFOANAK	Nomor urut pemberi informasi anak umur 2-4 Tahun
+R2101	Berapa banyak buku anak-anak atau buku bergambar yang ada di rumah ini?
+R2102A	Mainan buatan sendiri, seperti boneka, mobil-mobilan, atau mainan lainnya yang dibuat di rumah?
+R2102B	Mainan yang dibeli dari toko atau mainan buatan pabrik?
+R2102C	Mainan dari peralatan rumah tangga (seperti mangkuk, panci) atau benda yang didapat dari luar rumah (seperti ranting pohon, batu, kulit kerang, atau daun)?
+R301	Banyaknya ART
+R302	Banyaknya ART berumur 0-4 tahun
+R303	Banyaknya ART berumur 5 tahun ke atas
+R304	Banyaknya ART berumur 10 tahun ke atas
+R305	Banyaknya ART perempuan berumur 10-54 tahun berstatus pernah kawin
+FWT	penimbang
