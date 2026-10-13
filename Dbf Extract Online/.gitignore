@@ -1,0 +1,8 @@
+  *.dbf
+  *.dbt
+  *.fpt
+  *.csv
+  *.xlsx
+  __pycache__/
+  .venv/
+  .streamlit/secrets.toml
